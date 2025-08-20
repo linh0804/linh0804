@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  Tôi chỉ nói điều này một lần thôi, chỉ một lần thôi, vì vậy hãy lắng nghe thật kỹ<br>
+  <strong>Tôi thích bạn</strong>
+</div>
 
 <!--
 **linh0804/linh0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
